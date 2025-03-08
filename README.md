@@ -1,12 +1,21 @@
-## Hi there 👋
+## About me
+
+James T. Neill
+
+Assistant Professor
+Discipline of Psychology
+School of Health Sciences  
+Faculty of Health  
+University of Canberra  
+
+Research Profile
+[University of Canberra Research Profile](https://researchprofiles.canberra.edu.au/en/persons/jt-neill)
+
+🌱 I’m currently learning to use RStudio
 
 <!--
-**JamesTNeill/JamesTNeill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
