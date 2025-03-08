@@ -2,13 +2,12 @@
 
 James T. Neill
 
-Assistant Professor
-Discipline of Psychology
-School of Health Sciences  
-Faculty of Health  
-University of Canberra  
+Assistant Professor<br>
+Discipline of Psychology<br>
+School of Health Sciences<br>
+Faculty of Health<br>
+University of Canberra<br>
 
-Research Profile
 [University of Canberra Research Profile](https://researchprofiles.canberra.edu.au/en/persons/jt-neill)
 
 🌱 I’m currently learning to use RStudio
